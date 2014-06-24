@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -pthread -ffast-math -O2 -O3 -DNDEBUG    -s CMakeFiles/cluttergen2d.dir/cluttergen2d.o  -o cluttergen2d -rdynamic 

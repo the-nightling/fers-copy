@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nightling/Software/fers (copy)/fftwcpp/fftwcpp.cpp
+stdexcept
+-
+map
+-
+fftw3.h
+-
+fftwcpp.h
+/home/nightling/Software/fers (copy)/fftwcpp/fftwcpp.h
+boost/thread/mutex.hpp
+-
+fftwcpp_templates.h
+/home/nightling/Software/fers (copy)/fftwcpp/fftwcpp_templates.h
+
+/home/nightling/Software/fers (copy)/fftwcpp/fftwcpp.h
+config.h
+-
+complex
+-
+map
+-
+stdexcept
+-
+string
+-
+
+/home/nightling/Software/fers (copy)/fftwcpp/fftwcpp_templates.h
+
+config.h
+

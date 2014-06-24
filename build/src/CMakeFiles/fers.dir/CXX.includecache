@@ -1,0 +1,1148 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../fftwcpp/fftwcpp.h
+config.h
+-
+complex
+-
+map
+-
+stdexcept
+-
+string
+-
+
+/home/nightling/Software/fers (copy)/src/rsantenna.cpp
+stdexcept
+-
+algorithm
+-
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+cmath
+-
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+rsinterp.h
+/home/nightling/Software/fers (copy)/src/rsinterp.h
+tinyxml.h
+-
+rspattern.h
+/home/nightling/Software/fers (copy)/src/rspattern.h
+
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+config.h
+-
+string
+-
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+boost/utility.hpp
+/home/nightling/Software/fers (copy)/src/boost/utility.hpp
+rspython.h
+/home/nightling/Software/fers (copy)/src/rspython.h
+limits
+-
+
+/home/nightling/Software/fers (copy)/src/rsdebug.cpp
+iostream
+-
+sstream
+-
+cstdio
+-
+cstdarg
+-
+boost/thread/mutex.hpp
+-
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+string
+-
+
+/home/nightling/Software/fers (copy)/src/rsdsp.cpp
+rsdsp.h
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+stdexcept
+-
+cmath
+-
+cstring
+-
+string.h
+-
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+config.h
+-
+boost/utility.hpp
+-
+vector
+-
+complex
+-
+map
+-
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+
+/home/nightling/Software/fers (copy)/src/rsgeometry.cpp
+cmath
+-
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+config.h
+-
+
+/home/nightling/Software/fers (copy)/src/rshdf5.cpp
+config.h
+-
+stdexcept
+-
+string
+-
+sstream
+-
+iomanip
+-
+rshdf5.h
+/home/nightling/Software/fers (copy)/src/rshdf5.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+hdf5.h
+-
+H5LTpublic.h
+-
+
+/home/nightling/Software/fers (copy)/src/rshdf5.h
+complex
+-
+
+/home/nightling/Software/fers (copy)/src/rsinterp.cpp
+map
+-
+utility
+-
+stdexcept
+-
+cmath
+-
+rsinterp.h
+/home/nightling/Software/fers (copy)/src/rsinterp.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rsinterp.h
+vector
+-
+config.h
+-
+
+/home/nightling/Software/fers (copy)/src/rsmain.cpp
+stdexcept
+-
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+xmlimport.h
+/home/nightling/Software/fers (copy)/src/xmlimport.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsthreadedsim.h
+/home/nightling/Software/fers (copy)/src/rsthreadedsim.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+fftwcpp.h
+/home/nightling/Software/fers (copy)/src/fftwcpp.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+cstring
+-
+
+/home/nightling/Software/fers (copy)/src/rsmultipath.cpp
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+
+/home/nightling/Software/fers (copy)/src/rsnoise.cpp
+cmath
+-
+limits
+-
+boost/random.hpp
+-
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsdsp.h
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+config.h
+-
+boost/random/variate_generator.hpp
+-
+boost/random/normal_distribution.hpp
+-
+boost/random/gamma_distribution.hpp
+-
+boost/random/mersenne_twister.hpp
+-
+boost/utility.hpp
+-
+vector
+-
+rsdsp.h
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+rspython.h
+/home/nightling/Software/fers (copy)/src/rspython.h
+
+/home/nightling/Software/fers (copy)/src/rsobject.cpp
+rsobject.h
+/home/nightling/Software/fers (copy)/src/rsobject.h
+rsplatform.h
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+
+/home/nightling/Software/fers (copy)/src/rsobject.h
+config.h
+-
+rspath.h
+/home/nightling/Software/fers (copy)/src/rspath.h
+string
+-
+boost/utility.hpp
+-
+
+/home/nightling/Software/fers (copy)/src/rsparameters.cpp
+stdexcept
+-
+time.h
+/home/nightling/Software/fers (copy)/src/time.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+config.h
+-
+
+/home/nightling/Software/fers (copy)/src/rspath.cpp
+cmath
+-
+algorithm
+-
+rspath.h
+/home/nightling/Software/fers (copy)/src/rspath.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rspython.h
+/home/nightling/Software/fers (copy)/src/rspython.h
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+
+/home/nightling/Software/fers (copy)/src/rspath.h
+config.h
+-
+vector
+-
+stdexcept
+-
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+
+/home/nightling/Software/fers (copy)/src/rspattern.cpp
+config.h
+-
+cmath
+-
+rspattern.h
+/home/nightling/Software/fers (copy)/src/rspattern.h
+rshdf5.h
+/home/nightling/Software/fers (copy)/src/rshdf5.h
+
+/home/nightling/Software/fers (copy)/src/rspattern.h
+string
+-
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+
+/home/nightling/Software/fers (copy)/src/rsplatform.cpp
+rsplatform.h
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+config.h
+-
+rspath.h
+/home/nightling/Software/fers (copy)/src/rspath.h
+string
+-
+boost/utility.hpp
+-
+
+/home/nightling/Software/fers (copy)/src/rspolarize.cpp
+rspolarize.h
+/home/nightling/Software/fers (copy)/src/rspolarize.h
+
+/home/nightling/Software/fers (copy)/src/rspolarize.h
+config.h
+/home/nightling/Software/fers (copy)/src/config.h
+complex
+-
+
+/home/nightling/Software/fers (copy)/src/rsportable.cpp
+string.h
+-
+math.h
+-
+stdio.h
+-
+sstream
+-
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+boost/thread.hpp
+-
+boost/math/special_functions/round.hpp
+-
+
+/home/nightling/Software/fers (copy)/src/rsportable.h
+config.h
+-
+
+/home/nightling/Software/fers (copy)/src/rspulserender.cpp
+stdexcept
+-
+string
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+map
+-
+cstdio
+-
+boost/scoped_array.hpp
+-
+boost/thread/thread.hpp
+-
+boost/thread/mutex.hpp
+-
+boost/thread/xtime.hpp
+-
+boost/math/special_functions/fpclassify.hpp
+-
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rspulserender.h
+/home/nightling/Software/fers (copy)/src/rspulserender.h
+rsresponse.h
+/home/nightling/Software/fers (copy)/src/rsresponse.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+rshdf5.h
+/home/nightling/Software/fers (copy)/src/rshdf5.h
+rssignal.h
+/home/nightling/Software/fers (copy)/src/rssignal.h
+rstiming.h
+/home/nightling/Software/fers (copy)/src/rstiming.h
+rsdsp.h
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+tinyxml.h
+-
+
+/home/nightling/Software/fers (copy)/src/rspulserender.h
+config.h
+-
+vector
+-
+queue
+-
+string
+-
+
+/home/nightling/Software/fers (copy)/src/rspython.cpp
+Python.h
+-
+rspython.h
+/home/nightling/Software/fers (copy)/src/rspython.h
+stdexcept
+-
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+
+/home/nightling/Software/fers (copy)/src/rspython.h
+config.h
+-
+string
+-
+rsgeometry.h
+/home/nightling/Software/fers (copy)/src/rsgeometry.h
+
+/home/nightling/Software/fers (copy)/src/rsradar.cpp
+algorithm
+-
+stdexcept
+-
+cmath
+-
+limits
+-
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rspulserender.h
+/home/nightling/Software/fers (copy)/src/rspulserender.h
+rsresponse.h
+/home/nightling/Software/fers (copy)/src/rsresponse.h
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rspath.h
+/home/nightling/Software/fers (copy)/src/rspath.h
+rstiming.h
+/home/nightling/Software/fers (copy)/src/rstiming.h
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+rsplatform.h
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+
+/home/nightling/Software/fers (copy)/src/rsradar.h
+config.h
+-
+vector
+-
+string
+-
+rsobject.h
+/home/nightling/Software/fers (copy)/src/rsobject.h
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+boost/utility.hpp
+-
+boost/thread/mutex.hpp
+-
+
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.cpp
+cmath
+-
+stdexcept
+-
+fstream
+-
+boost/scoped_array.hpp
+-
+ctype.h
+-
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rssignal.h
+/home/nightling/Software/fers (copy)/src/rssignal.h
+rshdf5.h
+/home/nightling/Software/fers (copy)/src/rshdf5.h
+
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+config.h
+-
+string
+-
+vector
+-
+complex
+-
+boost/shared_array.hpp
+-
+boost/utility.hpp
+-
+rspolarize.h
+/home/nightling/Software/fers (copy)/src/rspolarize.h
+
+/home/nightling/Software/fers (copy)/src/rsresponse.cpp
+sstream
+-
+fstream
+-
+iomanip
+-
+rsresponse.h
+/home/nightling/Software/fers (copy)/src/rsresponse.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+tinyxml.h
+-
+
+/home/nightling/Software/fers (copy)/src/rsresponse.h
+config.h
+-
+vector
+-
+string
+-
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+boost/utility.hpp
+-
+boost/shared_array.hpp
+-
+iosfwd
+-
+
+/home/nightling/Software/fers (copy)/src/rssignal.cpp
+cmath
+-
+limits
+-
+stdexcept
+-
+boost/thread/mutex.hpp
+-
+boost/math/special_functions/fpclassify.hpp
+-
+rssignal.h
+/home/nightling/Software/fers (copy)/src/rssignal.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsdsp.h
+/home/nightling/Software/fers (copy)/src/rsdsp.h
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+
+/home/nightling/Software/fers (copy)/src/rssignal.h
+config.h
+-
+complex
+-
+string
+-
+boost/utility.hpp
+-
+boost/shared_array.hpp
+-
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+
+/home/nightling/Software/fers (copy)/src/rssim.cpp
+cmath
+-
+limits
+-
+stdexcept
+-
+rssim.h
+/home/nightling/Software/fers (copy)/src/rssim.h
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rstarget.h
+/home/nightling/Software/fers (copy)/src/rstarget.h
+rsresponse.h
+/home/nightling/Software/fers (copy)/src/rsresponse.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+
+/home/nightling/Software/fers (copy)/src/rssim.h
+config.h
+-
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+
+/home/nightling/Software/fers (copy)/src/rstarget.cpp
+cmath
+-
+rstarget.h
+/home/nightling/Software/fers (copy)/src/rstarget.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsinterp.h
+/home/nightling/Software/fers (copy)/src/rsinterp.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+tinyxml.h
+-
+
+/home/nightling/Software/fers (copy)/src/rstarget.h
+config.h
+-
+rsobject.h
+/home/nightling/Software/fers (copy)/src/rsobject.h
+rspath.h
+/home/nightling/Software/fers (copy)/src/rspath.h
+rspolarize.h
+/home/nightling/Software/fers (copy)/src/rspolarize.h
+
+/home/nightling/Software/fers (copy)/src/rsthreadedsim.cpp
+vector
+-
+boost/thread/thread.hpp
+-
+boost/thread/mutex.hpp
+-
+boost/thread/xtime.hpp
+-
+boost/version.hpp
+-
+rssim.h
+/home/nightling/Software/fers (copy)/src/rssim.h
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsthreadedsim.h
+/home/nightling/Software/fers (copy)/src/rsthreadedsim.h
+
+/home/nightling/Software/fers (copy)/src/rsthreadedsim.h
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+
+/home/nightling/Software/fers (copy)/src/rstiming.cpp
+rstiming.h
+/home/nightling/Software/fers (copy)/src/rstiming.h
+rsnoise.h
+/home/nightling/Software/fers (copy)/src/rsnoise.h
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+algorithm
+-
+
+/home/nightling/Software/fers (copy)/src/rstiming.h
+config.h
+-
+boost/utility.hpp
+-
+string
+-
+vector
+-
+
+/home/nightling/Software/fers (copy)/src/rsworld.cpp
+algorithm
+-
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rsradarwaveform.h
+/home/nightling/Software/fers (copy)/src/rsradarwaveform.h
+rsplatform.h
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+rstarget.h
+/home/nightling/Software/fers (copy)/src/rstarget.h
+rstiming.h
+/home/nightling/Software/fers (copy)/src/rstiming.h
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+
+/home/nightling/Software/fers (copy)/src/rsworld.h
+config.h
+-
+vector
+-
+map
+-
+
+/home/nightling/Software/fers (copy)/src/xmlimport.cpp
+string
+-
+sstream
+-
+stdexcept
+-
+cmath
+-
+xmlimport.h
+/home/nightling/Software/fers (copy)/src/xmlimport.h
+tinyxml.h
+-
+rsdebug.h
+/home/nightling/Software/fers (copy)/src/rsdebug.h
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+rsplatform.h
+/home/nightling/Software/fers (copy)/src/rsplatform.h
+rstarget.h
+/home/nightling/Software/fers (copy)/src/rstarget.h
+rsradar.h
+/home/nightling/Software/fers (copy)/src/rsradar.h
+rsportable.h
+/home/nightling/Software/fers (copy)/src/rsportable.h
+rsparameters.h
+/home/nightling/Software/fers (copy)/src/rsparameters.h
+rsantenna.h
+/home/nightling/Software/fers (copy)/src/rsantenna.h
+rstiming.h
+/home/nightling/Software/fers (copy)/src/rstiming.h
+rspython.h
+/home/nightling/Software/fers (copy)/src/rspython.h
+rsmultipath.h
+/home/nightling/Software/fers (copy)/src/rsmultipath.h
+
+/home/nightling/Software/fers (copy)/src/xmlimport.h
+config.h
+-
+rsworld.h
+/home/nightling/Software/fers (copy)/src/rsworld.h
+
+/usr/include/python2.7/Python.h
+patchlevel.h
+/usr/include/python2.7/patchlevel.h
+pyconfig.h
+/usr/include/python2.7/pyconfig.h
+pymacconfig.h
+/usr/include/python2.7/pymacconfig.h
+limits.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+unistd.h
+-
+stddef.h
+-
+assert.h
+-
+pyport.h
+/usr/include/python2.7/pyport.h
+pymath.h
+/usr/include/python2.7/pymath.h
+pymem.h
+/usr/include/python2.7/pymem.h
+object.h
+/usr/include/python2.7/object.h
+objimpl.h
+/usr/include/python2.7/objimpl.h
+pydebug.h
+/usr/include/python2.7/pydebug.h
+unicodeobject.h
+/usr/include/python2.7/unicodeobject.h
+intobject.h
+/usr/include/python2.7/intobject.h
+boolobject.h
+/usr/include/python2.7/boolobject.h
+longobject.h
+/usr/include/python2.7/longobject.h
+floatobject.h
+/usr/include/python2.7/floatobject.h
+complexobject.h
+/usr/include/python2.7/complexobject.h
+rangeobject.h
+/usr/include/python2.7/rangeobject.h
+stringobject.h
+/usr/include/python2.7/stringobject.h
+memoryobject.h
+/usr/include/python2.7/memoryobject.h
+bufferobject.h
+/usr/include/python2.7/bufferobject.h
+bytesobject.h
+/usr/include/python2.7/bytesobject.h
+bytearrayobject.h
+/usr/include/python2.7/bytearrayobject.h
+tupleobject.h
+/usr/include/python2.7/tupleobject.h
+listobject.h
+/usr/include/python2.7/listobject.h
+dictobject.h
+/usr/include/python2.7/dictobject.h
+enumobject.h
+/usr/include/python2.7/enumobject.h
+setobject.h
+/usr/include/python2.7/setobject.h
+methodobject.h
+/usr/include/python2.7/methodobject.h
+moduleobject.h
+/usr/include/python2.7/moduleobject.h
+funcobject.h
+/usr/include/python2.7/funcobject.h
+classobject.h
+/usr/include/python2.7/classobject.h
+fileobject.h
+/usr/include/python2.7/fileobject.h
+cobject.h
+/usr/include/python2.7/cobject.h
+pycapsule.h
+/usr/include/python2.7/pycapsule.h
+traceback.h
+/usr/include/python2.7/traceback.h
+sliceobject.h
+/usr/include/python2.7/sliceobject.h
+cellobject.h
+/usr/include/python2.7/cellobject.h
+iterobject.h
+/usr/include/python2.7/iterobject.h
+genobject.h
+/usr/include/python2.7/genobject.h
+descrobject.h
+/usr/include/python2.7/descrobject.h
+warnings.h
+/usr/include/python2.7/warnings.h
+weakrefobject.h
+/usr/include/python2.7/weakrefobject.h
+codecs.h
+/usr/include/python2.7/codecs.h
+pyerrors.h
+/usr/include/python2.7/pyerrors.h
+pystate.h
+/usr/include/python2.7/pystate.h
+pyarena.h
+/usr/include/python2.7/pyarena.h
+modsupport.h
+/usr/include/python2.7/modsupport.h
+pythonrun.h
+/usr/include/python2.7/pythonrun.h
+ceval.h
+/usr/include/python2.7/ceval.h
+sysmodule.h
+/usr/include/python2.7/sysmodule.h
+intrcheck.h
+/usr/include/python2.7/intrcheck.h
+import.h
+/usr/include/python2.7/import.h
+abstract.h
+/usr/include/python2.7/abstract.h
+compile.h
+/usr/include/python2.7/compile.h
+eval.h
+/usr/include/python2.7/eval.h
+pyctype.h
+/usr/include/python2.7/pyctype.h
+pystrtod.h
+/usr/include/python2.7/pystrtod.h
+pystrcmp.h
+/usr/include/python2.7/pystrcmp.h
+dtoa.h
+/usr/include/python2.7/dtoa.h
+pyfpe.h
+/usr/include/python2.7/pyfpe.h
+pth.h
+-
+
+/usr/include/python2.7/abstract.h
+
+/usr/include/python2.7/boolobject.h
+
+/usr/include/python2.7/bufferobject.h
+
+/usr/include/python2.7/bytearrayobject.h
+stdarg.h
+-
+
+/usr/include/python2.7/bytesobject.h
+
+/usr/include/python2.7/cellobject.h
+
+/usr/include/python2.7/ceval.h
+
+/usr/include/python2.7/classobject.h
+
+/usr/include/python2.7/cobject.h
+
+/usr/include/python2.7/code.h
+
+/usr/include/python2.7/codecs.h
+
+/usr/include/python2.7/compile.h
+code.h
+/usr/include/python2.7/code.h
+
+/usr/include/python2.7/complexobject.h
+
+/usr/include/python2.7/descrobject.h
+
+/usr/include/python2.7/dictobject.h
+
+/usr/include/python2.7/dtoa.h
+
+/usr/include/python2.7/enumobject.h
+
+/usr/include/python2.7/eval.h
+
+/usr/include/python2.7/fileobject.h
+
+/usr/include/python2.7/floatobject.h
+
+/usr/include/python2.7/funcobject.h
+
+/usr/include/python2.7/genobject.h
+
+/usr/include/python2.7/import.h
+
+/usr/include/python2.7/intobject.h
+
+/usr/include/python2.7/intrcheck.h
+
+/usr/include/python2.7/iterobject.h
+
+/usr/include/python2.7/listobject.h
+
+/usr/include/python2.7/longobject.h
+
+/usr/include/python2.7/memoryobject.h
+
+/usr/include/python2.7/methodobject.h
+
+/usr/include/python2.7/modsupport.h
+stdarg.h
+-
+
+/usr/include/python2.7/moduleobject.h
+
+/usr/include/python2.7/object.h
+
+/usr/include/python2.7/objimpl.h
+pymem.h
+/usr/include/python2.7/pymem.h
+
+/usr/include/python2.7/patchlevel.h
+
+/usr/include/python2.7/pyarena.h
+
+/usr/include/python2.7/pycapsule.h
+
+/usr/include/python2.7/pyconfig.h
+x86_64-linux-gnu/python2.7/pyconfig.h
+-
+x86_64-linux-gnux32/python2.7/pyconfig.h
+-
+i386-linux-gnu/python2.7/pyconfig.h
+-
+aarch64-linux-gnu/python2.7/pyconfig.h
+-
+alpha-linux-gnu/python2.7/pyconfig.h
+-
+arm-linux-gnueabihf/python2.7/pyconfig.h
+-
+arm-linux-gnueabi/python2.7/pyconfig.h
+-
+hppa-linux-gnu/python2.7/pyconfig.h
+-
+ia64-linux-gnu/python2.7/pyconfig.h
+-
+m68k-linux-gnu/python2.7/pyconfig.h
+-
+mipsel-linux-gnu/python2.7/pyconfig.h
+-
+mips64el-linux-gnuabin32/python2.7/pyconfig.h
+-
+mips64el-linux-gnuabi64/python2.7/pyconfig.h
+-
+mips-linux-gnu/python2.7/pyconfig.h
+-
+mips64-linux-gnuabin32/python2.7/pyconfig.h
+-
+mips64-linux-gnuabi64/python2.7/pyconfig.h
+-
+or1k-linux-gnu/python2.7/pyconfig.h
+-
+powerpc-linux-gnuspe/python2.7/pyconfig.h
+-
+powerpc64le-linux-gnu/python2.7/pyconfig.h
+-
+powerpc64-linux-gnu/python2.7/pyconfig.h
+-
+powerpc-linux-gnu/python2.7/pyconfig.h
+-
+s390x-linux-gnu/python2.7/pyconfig.h
+-
+s390-linux-gnu/python2.7/pyconfig.h
+-
+sh4-linux-gnu/python2.7/pyconfig.h
+-
+sparc64-linux-gnu/python2.7/pyconfig.h
+-
+sparc-linux-gnu/python2.7/pyconfig.h
+-
+x86_64-kfreebsd-gnu/python2.7/pyconfig.h
+-
+i386-kfreebsd-gnu/python2.7/pyconfig.h
+-
+i386-gnu/python2.7/pyconfig.h
+-
+
+/usr/include/python2.7/pyctype.h
+
+/usr/include/python2.7/pydebug.h
+
+/usr/include/python2.7/pyerrors.h
+stdarg.h
+-
+
+/usr/include/python2.7/pyfpe.h
+signal.h
+-
+setjmp.h
+-
+math.h
+-
+
+/usr/include/python2.7/pymacconfig.h
+
+/usr/include/python2.7/pymath.h
+pyconfig.h
+/usr/include/python2.7/pyconfig.h
+
+/usr/include/python2.7/pymem.h
+pyport.h
+/usr/include/python2.7/pyport.h
+
+/usr/include/python2.7/pyport.h
+pyconfig.h
+/usr/include/python2.7/pyconfig.h
+inttypes.h
+-
+stdint.h
+-
+stdlib.h
+-
+ieeefp.h
+-
+math.h
+-
+sys/time.h
+-
+time.h
+-
+sys/time.h
+-
+time.h
+-
+sys/select.h
+-
+sys/types.h
+-
+unixstuff.h
+/usr/include/python2.7/unixstuff.h
+sys/types.h
+-
+sys/stat.h
+-
+stat.h
+-
+sys/types.h
+-
+sys/termio.h
+-
+termios.h
+-
+osreldate.h
+-
+ctype.h
+-
+wctype.h
+-
+
+/usr/include/python2.7/pystate.h
+
+/usr/include/python2.7/pystrcmp.h
+
+/usr/include/python2.7/pystrtod.h
+
+/usr/include/python2.7/pythonrun.h
+
+/usr/include/python2.7/rangeobject.h
+
+/usr/include/python2.7/setobject.h
+
+/usr/include/python2.7/sliceobject.h
+
+/usr/include/python2.7/stringobject.h
+stdarg.h
+-
+
+/usr/include/python2.7/sysmodule.h
+
+/usr/include/python2.7/traceback.h
+
+/usr/include/python2.7/tupleobject.h
+
+/usr/include/python2.7/unicodeobject.h
+stdarg.h
+-
+ctype.h
+-
+time.h
+-
+wchar.h
+-
+wctype.h
+-
+
+/usr/include/python2.7/warnings.h
+
+/usr/include/python2.7/weakrefobject.h
+
+config.h
+

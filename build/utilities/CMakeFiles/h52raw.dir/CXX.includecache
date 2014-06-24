@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nightling/Software/fers (copy)/utilities/h52raw.cpp
+sstream
+-
+iostream
+-
+stdexcept
+-
+string
+-
+iomanip
+-
+stdio.h
+-
+hdf5.h
+-
+H5LTpublic.h
+-
+

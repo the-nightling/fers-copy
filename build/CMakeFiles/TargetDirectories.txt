@@ -1,0 +1,10 @@
+/home/nightling/Software/fers (copy)/build/test/unit_tests/CMakeFiles/clock_test.dir
+/home/nightling/Software/fers (copy)/build/utilities/CMakeFiles/cluttergen.dir
+/home/nightling/Software/fers (copy)/build/utilities/CMakeFiles/cluttergen2d.dir
+/home/nightling/Software/fers (copy)/build/utilities/CMakeFiles/csv2antenna.dir
+/home/nightling/Software/fers (copy)/build/src/CMakeFiles/fers.dir
+/home/nightling/Software/fers (copy)/build/fftwcpp/CMakeFiles/fftwcpp.dir
+/home/nightling/Software/fers (copy)/build/test/unit_tests/CMakeFiles/filter_test.dir
+/home/nightling/Software/fers (copy)/build/utilities/CMakeFiles/h52raw.dir
+/home/nightling/Software/fers (copy)/build/test/unit_tests/CMakeFiles/noisegen_test.dir
+/home/nightling/Software/fers (copy)/build/test/unit_tests/CMakeFiles/timing_test.dir

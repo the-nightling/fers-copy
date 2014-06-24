@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nightling/Software/fers (copy)/utilities/csv2antenna.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nightling/Software/fers (copy)/utilities/cluttergen.cpp
+iostream
+-
+fstream
+-
+boost/random.hpp
+-
+

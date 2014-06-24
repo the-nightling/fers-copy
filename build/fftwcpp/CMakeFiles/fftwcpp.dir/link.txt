@@ -1,0 +1,2 @@
+/usr/bin/ar cr libfftwcpp.a  CMakeFiles/fftwcpp.dir/fftwcpp.o
+/usr/bin/ranlib libfftwcpp.a

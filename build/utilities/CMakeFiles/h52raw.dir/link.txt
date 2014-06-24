@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -pthread -ffast-math -O2 -O3 -DNDEBUG    -s CMakeFiles/h52raw.dir/h52raw.o  -o h52raw -rdynamic -lhdf5 -lhdf5_hl 
